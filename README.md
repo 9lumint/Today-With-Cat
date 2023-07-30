@@ -1,1 +1,3 @@
-# Today-With-Cat
+# 오늘 하루 고양이와
+
+고양이와 함께 작성하는 To Do List
