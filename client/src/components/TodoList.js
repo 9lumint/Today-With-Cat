@@ -1,8 +1,8 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 import { v4 as uuid } from "uuid";
-import TodoForm from "../Components/TodoForm";
-import Todo from "../Components/Todo";
+import TodoForm from "../common/TodoForm";
+import Todo from "../common/Todo";
 import styled from "styled-components";
 
 const TodoView = styled.section`

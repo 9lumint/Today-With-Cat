@@ -1,10 +1,10 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
-import Nav from "./Components/Nav";
-import Today from "./Pages/Today";
-import TodoList from "./Pages/TodoList";
-import PlayWithCat from "./Pages/PlayWithCat";
-import Dev from "./Pages/Dev";
+import Nav from "./common/Nav";
+import Today from "./components/Today";
+import TodoList from "./components/TodoList";
+import PlayWithCat from "./components/PlayWithCat";
+import Dev from "./components/Dev";
 import "./App.css";
 
 const User = () => {

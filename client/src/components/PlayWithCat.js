@@ -1,6 +1,6 @@
 import { useState } from "react";
-import cat from "../Img/cat.png";
-import room from "../Img/room.jpg";
+import cat from "../assets/cat.png";
+import room from "../assets/room.jpg";
 import styled, { keyframes } from "styled-components";
 
 const playing = keyframes`

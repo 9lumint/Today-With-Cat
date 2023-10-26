@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Modal from "../Components/Modal";
+import Modal from "../common/Modal";
 import { Icon } from "@iconify/react";
 import styled from "styled-components";
 import dayjs from "dayjs";
