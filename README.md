@@ -15,7 +15,7 @@
 <img width=550 src="https://github.com/9lumint/today-with-cat/assets/131740436/fd3fd595-db7c-4551-9ac0-adbfd47b5b20"><br/>
 
 ### 🐈‍⬛ 고양이 시간 : 고양이 클릭 시 애니메이션 효과
-<img width=550 src="https://github.com/9lumint/today-with-cat/assets/131740436/42d81aef-5073-4920-819c-8d19e76949d0"><br/>
+<img width=550 src="https://github.com/9lumint/today-with-cat/assets/131740436/1eda4717-ab32-40a7-9c06-abace599bd99"><br/>
 
 ## 🐈 기술 스택
 
